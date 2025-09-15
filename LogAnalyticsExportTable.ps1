@@ -29,7 +29,7 @@ $params = @{
 Author: WMOSELHY
 
 .LINK
-
+https://github.com/WillyMoselhy/Helpers_AzureMonitor/blob/main/LogAnalyticsExportTable.ps1
 #>
 
 [CmdletBinding()]
