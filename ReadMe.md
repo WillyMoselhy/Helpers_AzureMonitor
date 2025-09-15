@@ -1,6 +1,6 @@
-# Helpers_AzureMonitor
+# Azure Monitor Helpers
 
-This repository provides helper scripts and utilities for working with Azure Monitor. It is designed to simplify common monitoring tasks, automate data collection, and streamline integration with Azure services.
+This repository provides scripts and utilities for working with Azure Monitor. It is designed to simplify common monitoring tasks, automate data collection, and streamline integration with Azure services.
 
 ## Repository Structure
 
