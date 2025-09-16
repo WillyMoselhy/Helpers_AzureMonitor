@@ -1,13 +1,12 @@
-# Azure Monitor Helpers
+# Azure Monitor Toolkit
 
 This repository provides scripts and utilities for working with Azure Monitor. It is designed to simplify common monitoring tasks, automate data collection, and streamline integration with Azure services.
 
 ## Repository Structure
 
-| File/Folder                                                  | Description                                                |
-| ------------------------------------------------------------ | ---------------------------------------------------------- |
-| [LogAnalyticsExportTable.ps1](LogAnalyticsExportTable.ps1) | Exports data from Azure Log Analytics query to json files. |
-
+| File/Folder                                             | Description                                                |
+| ------------------------------------------------------- | ---------------------------------------------------------- |
+| [LogAnalyticsExportTable.ps1](LogAnalyticsExportTable/ReadME.md) | Exports data from Azure Log Analytics query to json files. |
 
 ## Contributing
 
