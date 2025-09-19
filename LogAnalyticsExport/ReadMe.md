@@ -1,6 +1,6 @@
-## [LogAnalyticsExportTable.ps1](LogAnalyticsExportTable.ps1)
+## [LogAnalyticsExport.ps1](LogAnalyticsExport.ps1)
 
-The primary script, LogAnalyticsExportTable.ps1, runs Kusto (KQL) queries against a Log Analytics workspace and exports results into time‑based batches. Exports can be saved as JSON files and organized into a predictable folder hierarchy (by year, month, day, or hour) to simplify downstream processing, archival, or migration.
+The primary script, LogAnalyticsExport.ps1, runs Kusto (KQL) queries against a Log Analytics workspace and exports results into time‑based batches. Exports can be saved as JSON files and organized into a predictable folder hierarchy (by year, month, day, or hour) to simplify downstream processing, archival, or migration.
 
 Key capabilities
 

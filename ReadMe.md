@@ -4,9 +4,9 @@ This repository provides scripts and utilities for working with Azure Monitor. I
 
 ## Repository Structure
 
-| File/Folder                                             | Description                                                |
-| ------------------------------------------------------- | ---------------------------------------------------------- |
-| [LogAnalyticsExportTable.ps1](LogAnalyticsExportTable/ReadMe.md) | Exports data from Azure Log Analytics query to json files. |
+| File/Folder                                            | Description                                                |
+| ------------------------------------------------------ | ---------------------------------------------------------- |
+| [LogAnalyticsExport.ps1](LogAnalyticsExport\ReadMe.md) | Exports data from Azure Log Analytics query to json files. |
 
 ## Contributing
 
